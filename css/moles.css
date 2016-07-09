@@ -1,0 +1,34 @@
+/**
+ * @author YounGoat
+ * @update 2016-07-09
+ */
+
+/*@import url("//fonts.useso.com/css?family=Lato:400,400italic");*/
+
+* {
+    font-family: Helvetica Neue, Helvetica, Arial, "Yuanti SC", "微软雅黑", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    font-family: "Lato";
+    color: skyblue;
+}
+
+blockquote,
+blockquote * {
+    font-family: "Consolas", "Wawati SC", "楷体";
+}
+
+code,
+code * {
+    font-family: "Consolas";
+}
+
+.highlighter-rouge .highlight,
+.highlighter-rouge .highlight * {
+    background-color: #f4f4f4;
+}
+
+.site-header * {
+    text-shadow: 0 0 1px #fff;
+}
